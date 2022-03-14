@@ -13,7 +13,7 @@ We still want to do good animation
 Developer
 We developed the puzzle plich for enjoyment.
 
-Meet Patel (iOS and Flutter Developer).
+Meet Patel (iOS and Flutter Developer). /n
 Shivam Thaker (iOS and Flutter Developer).
 
 Read my blog
