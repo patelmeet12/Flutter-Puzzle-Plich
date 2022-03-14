@@ -13,8 +13,8 @@ We still want to do good animation
 Developer
 We developed the puzzle plich for enjoyment.
 
-Meet Patel (iOS and Flutter Developer). /n
-Shivam Thaker (iOS and Flutter Developer).
+# Meet Patel (iOS and Flutter Developer).
+# Shivam Thaker (iOS and Flutter Developer).
 
 Read my blog
 https://medium.com/@yourerrorbro/how-to-download-pkpass-in-flutter-106962ed68d5
