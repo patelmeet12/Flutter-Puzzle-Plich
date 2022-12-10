@@ -14,7 +14,6 @@ Developer
 We developed the puzzle plich for enjoyment.
 
 # Meet Patel (iOS and Flutter Developer).
-# Shivam Thaker (iOS and Flutter Developer).
 
 Read my blog
 https://medium.com/@yourerrorbro/how-to-download-pkpass-in-flutter-106962ed68d5
